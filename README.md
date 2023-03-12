@@ -1,2 +1,2 @@
 Hello!! :)
-This is my project about cloud computing technologi.
+This is my project about cloud computing technology.
