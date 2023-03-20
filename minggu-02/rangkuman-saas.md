@@ -25,13 +25,13 @@ SaaS merupakan salah satu pilar utama dalam cloud computing. SaaS mengirimkan pe
 **Dari Sudut pandang bisnis**, produk perangkat lunak dalam as a service memungkinkan bisnis untuk menawarkan produknya dalam skala besar dan global, serta terpusat sehingga memungkinkan untuk mempertahankan kontrol atas produk mereka.</br>
 ### Fitur Utama dan Manfaat Platform Arsitektur SaaS</br>
 Beberapa manfaat yang diperoleh dari Platform arsitektur SaaS diantaranya :</br>
-The simplicity of SaaS Architecture Apps</br>
+* The simplicity of SaaS Architecture Apps</br>
 Aplikasi dalam SaaS diakses melalui web dari berbagai perangkat, kemajuan bahasa pemrograman menghasilkan antarmuka yang intuitif sehingga semudah sebagaimana aplikasi desktop.</br>
-Economical Value</br>
+* Economical Value</br>
 Kemudahan dan kemurahan biaya berlangganan membuat banyak perusahaan memiliki budget yang cukup, dan bahkan lebih menghemat dari metode yang sebelumnya.</br>
-Security</br>
+* Security</br>
 Keamanan dalam platform SaaS terjamin karena data tersimpan aman dalam cloud, sehingga pengguna tidak perlu mengkhawatirkan aspek terpenting ini.</br>
-Compatibility</br>
+* Compatibility</br>
 Dengan penginstalan perangkat lunak tradisional, pembaruan dan tambalan terkadang membutuhkan banyak waktu dan uang. Ini terutama berlaku di perusahaan.</br>
 ### Pertimbangan Desain untuk Platform Arsitektur SaaS</b>
 #### Scalability</b>
