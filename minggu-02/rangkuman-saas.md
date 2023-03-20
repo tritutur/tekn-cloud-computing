@@ -34,11 +34,11 @@ Keamanan dalam platform SaaS terjamin karena data tersimpan aman dalam cloud, se
 * Compatibility</br>
 Dengan penginstalan perangkat lunak tradisional, pembaruan dan tambalan terkadang membutuhkan banyak waktu dan uang. Ini terutama berlaku di perusahaan.</br>
 ### Pertimbangan Desain untuk Platform Arsitektur SaaS</b>
-#### Scalability</b>
+* #### Scalability</b>
 Arsitektur SaaS harus dapat menskalakan dan mengakomodasi banyak pengguna dalam waktu yang bersamaan. Hal ini dapat diperoleh dengan menggunakan perangkat keras seperti Network Load Balancers untuk mendistribusikan lalu lintas secara merata didalam server web.</br>
-#### Zero downtime and Service Level Agreements</b>
+* #### Zero downtime and Service Level Agreements</b>
 Pembangunan SaaS harus dapat mempertimbangkan kapan waktu yang tepat untuk pemutakhiran, debugging dan pemecahan masalah produksi kedalam aplikasi SaaS. Selain itu pengembang harus memastikan bahwa resource dapat menangani permintaan pengguna untuk membenahi masalah umum bahkan kompleks.</br>
-#### Multi-tenancy in SaaS architecture</b>
+* #### Multi-tenancy in SaaS architecture</b>
 Agar aplikasi yang dibangun dapat dikirim sebagai produk SaaS harus mendukung multi-penyewa dengan arti bahwa produk dapat mengakomodasi banyak pengguna sekaligus dengan mempertimbangkan data dan privasi pengguna.
 
 ## 4. How to build a cloud-based SaaS Application.
