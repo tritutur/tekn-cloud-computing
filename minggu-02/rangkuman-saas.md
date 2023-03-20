@@ -18,12 +18,12 @@ Dengan memanfaatkan SaaS, sebuah perusahaan dapat menerapkan sistem perangkat lu
 Penambahan SaaS dapat menyebabkan perubahan mendasar dalam peran departemen TI sebagai penyedia layanan informasi karena kendali pusat data tidak harus sama dengan kendali atas seluruh lingkungan komputasi perusahaan.</br>
 
 ### 3. Struktur Platform SaaS
-**Apa itu Platform Arsitektur SaaS**
+**Apa itu Platform Arsitektur SaaS**</br>
 SaaS merupakan salah satu pilar utama dalam cloud computing. SaaS mengirimkan perangkat lunak secara terpusat dan menghostingnya agar membuatnya tersedia untuk pelanggan melalui internet.</br>
-**Mengapa menggunakaan Arsitektur SaaS**
+**Mengapa menggunakaan Arsitektur SaaS**</br>
 **Dari Sudut pandang konsumen**, Saas merupakan cara termudah untuk menggunakan layanan produk digital karena cukup membayar dan dapat mengakses sumber daya yang disediakan sesuai kebutuhan. Selain itu pengguna tidak perlu membayar lagi untuk lisensi perangkat.</br>
 **Dari Sudut pandang bisnis**, produk perangkat lunak dalam as a service memungkinkan bisnis untuk menawarkan produknya dalam skala besar dan global, serta terpusat sehingga memungkinkan untuk mempertahankan kontrol atas produk mereka.</br>
-**Fitur Utama dan Manfaat Platform Arsitektur SaaS**
+**Fitur Utama dan Manfaat Platform Arsitektur SaaS**</br>
 Beberapa manfaat yang diperoleh dari Platform arsitektur SaaS diantaranya :</br>
 The simplicity of SaaS Architecture Apps</br>
 Aplikasi dalam SaaS diakses melalui web dari berbagai perangkat, kemajuan bahasa pemrograman menghasilkan antarmuka yang intuitif sehingga semudah sebagaimana aplikasi desktop.</br>
@@ -33,10 +33,10 @@ Security</br>
 Keamanan dalam platform SaaS terjamin karena data tersimpan aman dalam cloud, sehingga pengguna tidak perlu mengkhawatirkan aspek terpenting ini.</br>
 Compatibility</br>
 Dengan penginstalan perangkat lunak tradisional, pembaruan dan tambalan terkadang membutuhkan banyak waktu dan uang. Ini terutama berlaku di perusahaan.</br>
-**Pertimbangan Desain untuk Platform Arsitektur SaaS</b>**
-**Scalability**
+**Pertimbangan Desain untuk Platform Arsitektur SaaS**</b>
+**Scalability**</b>
 Arsitektur SaaS harus dapat menskalakan dan mengakomodasi banyak pengguna dalam waktu yang bersamaan. Hal ini dapat diperoleh dengan menggunakan perangkat keras seperti Network Load Balancers untuk mendistribusikan lalu lintas secara merata didalam server web.</br>
-**Zero downtime and Service Level Agreements**
+**Zero downtime and Service Level Agreements**</b>
 Pembangunan SaaS harus dapat mempertimbangkan kapan waktu yang tepat untuk pemutakhiran, debugging dan pemecahan masalah produksi kedalam aplikasi SaaS. Selain itu pengembang harus memastikan bahwa resource dapat menangani permintaan pengguna untuk membenahi masalah umum bahkan kompleks.</br>
-**Multi-tenancy in SaaS architecture**
+**Multi-tenancy in SaaS architecture**</b>
 Agar aplikasi yang dibangun dapat dikirim sebagai produk SaaS harus mendukung multi-penyewa dengan arti bahwa produk dapat mengakomodasi banyak pengguna sekaligus dengan mempertimbangkan data dan privasi pengguna.
