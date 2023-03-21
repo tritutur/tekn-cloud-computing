@@ -55,4 +55,4 @@ Kesimpulannya, arsitektur SaaS berbasis cloud memungkinkan pengguna untuk mengak
 
 # Contoh Layanan SaaS
 1. Software untuk pengolahan kata di cloud contohnya adalah Google Workspace, untuk versi desktop / non cloudnya yang memiliki fungsionalitas yang sama adalah Microsoft Office. 
-2. Software untuk membuat desain grafis di cloud contohnya adalah Adobe Creative Cloud, untuk versi desktop / non cloudnya yang memiliki fungsionalitas yang sama adalah Corel Draw. 
+2. Software untuk membuat desain grafis di cloud contohnya adalah Adobe Creative Cloud, untuk versi desktop / non cloudnya yang memiliki fungsionalitas yang sama adalah Adobe Photoshop dan Adobe Premiere Pro. 
