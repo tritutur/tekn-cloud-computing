@@ -9,7 +9,7 @@ https://github.com/mininet/mininet/releases/download/2.2.2/mininet-2.2.2-170321-
 ###### Import Virtual Machine</br>
 Setelah Anda mengunduh gambar .ovf, Jalankan VirtualBox, lalu pilih </br>
 File->Import Appliance dan pilih image .ovf yang telah diunduh.</br>
-<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-04/openflow-1.png"/></br>
+<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-04/openflow-1.PNG"/></br>
 
 Selanjutnya, setelah klik import, lakukan setting pada network adapter 2 dengan memilih host-only adapter, seperti berikut :</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-04/openflow-2.PNG"/></br>
