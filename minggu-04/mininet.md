@@ -25,10 +25,9 @@ Check config on h1 :</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-04/mininet-6.PNG"/></br>
 
 **Run a simple web server and client**</br>
-<blockquote>mininet> h1 python -m http.server 80 &
-mininet> h2 wget -O - h1
-...
-mininet> h1 kill %python
+<blockquote>mininet> h1 python -m http.server 80 &</br>
+mininet> h2 wget -O - h1</br>
+mininet> h1 kill %python</br>
 mininet> py sys.version</blockquote></br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-04/mininet-7.PNG"/></br>
 
