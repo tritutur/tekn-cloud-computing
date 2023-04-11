@@ -22,3 +22,21 @@ Untuk melakukan installasi jalankan command line berikut :</br>
 Sekarang bersihkan sistem dan muat data OFBiz lengkap menggunakan perintah gradlew berikut.</br>
 <blockquote>./gradlew cleanAll loadAll </blockquote></br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-05/ofbiz-05.PNG"/></br>
+<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-05/ofbiz-06.PNG"/></br>
+
+###### 4. Load Demo Data in OFBiz</br>
+Apache OFBiz menyediakan dataset, data demo, dan seed data untuk keperluan eksperimen. Pengguna produksi tidak perlu menjalankan perintah ini.</br>
+<blockquote>./gradlew cleanAll "ofbiz --load-data readers=seed,seed-initial" loadAdminUserLogin -PuserLoginId=admin</blockquote></br>
+Tunggu hingga proses selesai.</br>
+<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-05/ofbiz-07.PNG"/></br>
+
+###### 5. Start Apache OFBiz Service</br>
+Setelah menginstal Apache OFBiz, Gunakan perintah berikut untuk memulai layanan Apache OFBiz di sistem.</br>
+<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-05/ofbiz-08.PNG"/></br>
+<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-05/ofbiz-09.PNG"/></br>
+
+###### 6. Access Apache OFBiz in Browser</br>
+<blockquote>URL: https://127.0.0.1:8443/myportal/control/main</br>
+Admin Username: admin</br>
+Admin Password: ofbiz</blockquote></br>
+<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-05/ofbiz-10.PNG"/></br>
