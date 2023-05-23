@@ -1,10 +1,10 @@
 ### Install Docker Engine on Ubuntu Using the apt Repository</br>
 #### Set up the repository </br>
 1. Update apt package index dan install packages untuk memungkinkan apt penggunaan repositori melalui HTTPS dengan perintah berikut :</br>
-<blockquote> sudo apt-get update</br>
-sudo apt-get install ca-certificates curl gnupg
-</blockquote></br>
-<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-07/install-01.PNG"/></br>
+  <blockquote> sudo apt-get update</br>
+  sudo apt-get install ca-certificates curl gnupg
+  </blockquote></br>
+  <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-07/install-01.PNG"/></br>
 2. Menambahkan official GPG key, dengan menjalankan beberapa perintah berikut</br>
 <blockquote>sudo install -m 0755 -d /etc/apt/keyrings </br>
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg </br>
