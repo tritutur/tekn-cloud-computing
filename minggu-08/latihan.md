@@ -24,6 +24,7 @@ In this example, redis is the hostname of the redis container on the application
 In your project directory, create a file named Dockerfile and paste the following code in:</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-08/image/latihan-04.PNG"/></br>
 </br>
+
 ### Step 3: Define services in a Compose file</br>
 Create a file called docker-compose.yml in your project directory and paste the following:</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-08/image/latihan-05.PNG"/></br>
@@ -31,6 +32,7 @@ This Compose file defines two services: web and redis.</br>
 The web service uses an image that’s built from the Dockerfile in the current directory. It then binds the container and the host machine to the exposed port, 8000. This example service uses the default port for the Flask web server, 5000.</br>
 The redis service uses a public Redis image pulled from the Docker Hub registry.</br>
 </br>
+
 ### Step 4: Build and run your app with Compose</br>
 1. From your project directory, start up your application by running docker compose up.</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-08/image/latihan-06.PNG"/></br>
@@ -41,20 +43,24 @@ Compose pulls a Redis image, builds an image for your code, and starts the servi
 Listing images at this point should return redis and web.</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-08/image/latihan-08.PNG"/></br>
 </br>
+
 ### 5: Edit the Compose file to add a bind mount</br>
 Edit docker-compose.yml in your project directory to add a bind mount for the web service:</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-08/image/latihan-09.PNG"/></br>
 </br>
+
 ### Step 6: Re-build and run the app with Compose</br>
 From your project directory, type docker compose up to build the app with the updated Compose file, and run it.Check the Hello World message in a web browser again, and refresh to see the count increment.</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-08/image/latihan-10.PNG"/></br>
 </br>
+
 ### Step 7: Update the application</br>
 1. Change the greeting in app.py and save it. For example, change the Hello World! message to Hello from Docker!:</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-08/image/latihan-11.PNG"/></br>
 2. Refresh the app in your browser. The greeting should be updated, and the counter should still be incrementing.</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-08/image/latihan-12.PNG"/></br>
 </br>
+
 ### Step 8: Experiment with some other commands</br>
 1. If you want to run your services in the background, you can pass the -d flag (for “detached” mode) to docker compose up and use docker compose ps to see what is currently running:</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-08/image/latihan-13.PNG"/></br>
