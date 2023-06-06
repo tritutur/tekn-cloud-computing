@@ -7,6 +7,7 @@ You need to have Docker Engine and Docker Compose on your machine. You can eithe
 2. Install Docker Desktop which includes both Docker Engine and Docker Compose</br>
 You don’t need to install Python or Redis, as both are provided by Docker images.</br>
 </br>
+
 ### Step 1: Define the application dependencies</br>
 1. Create a directory for the project:</br>
 <blockquote> mkdir composetest</br>
