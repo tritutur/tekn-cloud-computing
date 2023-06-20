@@ -70,7 +70,7 @@
 
 #### Step 3: Create a service
 1. docker servie create</br>
-<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-10/image/ocker-service-create.png"/></br>
+<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-10/image/docker-service-create.png"/></br>
 
 2. docker service my service</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-10/image/docker-service-myservice.png"/></br>
