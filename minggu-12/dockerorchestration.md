@@ -52,3 +52,5 @@ So, what is Orchestration anyways? Well, Orchestration is probably best describe
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-12/image/cleaning-docker-kill.png"/></br>
 4. Lets run docker swarm leave --force on node1.</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-12/image/cleaning-docker-swarm-leave.png"/></br>
+
+</br>
