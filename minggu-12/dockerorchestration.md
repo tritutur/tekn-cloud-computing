@@ -23,9 +23,9 @@ So, what is Orchestration anyways? Well, Orchestration is probably best describe
 ### Section #3 - Deploy applications across multiple hosts</br>
 #### Step 3.1 - Deploy the application components as Docker services</br>
 1. Let’s deploy sleep as a Service across our Docker Swarm.</br>
-![07](img7.png)<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-12/image/img7.png"/></br>
+<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-12/image/img7.png"/></br>
 2. Verify that the service create has been received by the Swarm manager.</br>
-![08](img8.png)<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-12/image/img8.png"/></br>
+<img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-12/image/img8.png"/></br>
 
 ### Section #4 - Scale the application</br>
 1. Scale the number of containers in the sleep-app service to 7 with the docker service update --replicas 7 sleep-app command. replicas is the term we use to describe identical containers providing the same service.</br>
