@@ -30,13 +30,13 @@
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-13/image/img10.png"/></br>
 
 ### Enable addons
-1. List the currently supported addons:
+1. List the currently supported addons:</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-13/image/addons-output.png"/></br>
-2. View the Pod and Service you created by installing that addon:
+2. View the Pod and Service you created by installing that addon:</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-13/image/addons-output.png"/></br>
 
 ### Clean up
-1. Now you can clean up the resources you created in your cluster:
+1. Now you can clean up the resources you created in your cluster:</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-13/image/cleanup-kubectl-delete-deploy.png"/></br>
-2. Stop the Minikube cluster
+2. Stop the Minikube cluster</br>
 <img src="https://github.com/tritutur/tekn-cloud-computing/blob/main/minggu-13/image/cleanup-kubectl-stop.png"/></br>
